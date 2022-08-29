@@ -1,0 +1,21 @@
+		*****New session started:2021-05-10 10:48:38.921898*****
+First name of personbookingSteve
+		#####Number of tickets book: 1#####
+Name: Stevey
+Aadhar number: 00000000
+Age: 23
+Gender: m
+Mobile no: 000000000
+		*****New session started:2021-05-10 10:23:47.739150*****
+First name of personbookingAakash
+		#####Number of tickets book: 2#####
+Name: Akash
+Aadhar number: 00000000
+Age: 20
+Gender: m
+Mobile no:  0000000000
+Name:  Anita
+Aadhar number: 00000000
+Age: 25
+Gender: f
+Mobile no: 00000000
